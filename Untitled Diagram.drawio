@@ -1,1 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T19:51:54.505Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.114 YaBrowser/20.11.1.86 Yowser/2.5 Safari/537.36" version="13.10.2" etag="eYPA02_KYXiIbWwK0fsq" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-24T20:28:40.639Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.114 YaBrowser/20.11.1.86 Yowser/2.5 Safari/537.36" etag="QCfj-aAd6ydGzfIspoek" version="13.10.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2523" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-12" target="Lfni2xhBQjVb0y04ZWI3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="280" width="500" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="/start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="54" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry x="-1" y="-103" relative="1" as="geometry">
+            <mxPoint x="-90" y="-53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Пользователь уже дал соглашение?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="104" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp;Чем я могу вам послужить?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Чтобы перемещаться по разделам, пожалуйста, воспользуйтесь предложенной клавиатурой.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;������ О нас&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;������������‍������ Услуги&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;������ Товары&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;❓ Вопрос/Ответ&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;������ Новости&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;������ Отчёты&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-210" y="360" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-2" value="Выбор языка:&lt;br&gt;Русский&lt;br&gt;Английски" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="209" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="Lfni2xhBQjVb0y04ZWI3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="294" as="sourcePoint" />
+            <mxPoint x="620" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="360" as="sourcePoint" />
+            <mxPoint x="295" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-5" value="Русский" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-6" value="&lt;u&gt;Приветствие от компании&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="127.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;‼️Предупреждение‼️&lt;br&gt;Согласно федеральному закону &quot;о рынке ценных бумаг&quot; от 22.04.1996 n 39-фз мы не осуществляем брокерскую деятельность и не оказывает услуги форекс дилинга. Компания осуществляет деятельность только по предоставлению консультационных услуг по вопросам финансового посредничества. Все материалы, которые предоставляет бот, носят исключительно информационный характер и не являются указанием к действию. Представленные данные – это только предположения, основанные на нашем опыте. &lt;br&gt;_________ &lt;br&gt;Вы несёте полную ответственность за принятые торговые решения и результат, полученный в ходе работы&lt;/font&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="305" width="600" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-15" value="Принимаю все риски ✅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="279.74" y="530" width="140.53" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-25" target="Lfni2xhBQjVb0y04ZWI3-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="592.99" y="704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-16" value="Отлично!&lt;br&gt;Ну что, начнем? Для начала предлагаю вам узнать подробнее о нашей компании, познакомиться с нами������ &lt;br&gt;Если вы уже все знаете и готовы к работе, то можете пропустить этот шаг������" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="600" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="700" as="sourcePoint" />
+            <mxPoint x="40" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-18" value="Я готов(а) инвестировать! ������&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-47.5" y="770" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-22" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="629.9999999999995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-22" value="Приветствую Вас, Саша!&lt;br&gt;&lt;br&gt;Виртуальный помощник инвестиционного фонда IHOM к вашим услугам! Я буду держать вас в курсе последних новостей фондового рынка, сопровождать на пути инвестирования, а также расскажу о своих преимуществах!&lt;br&gt;&lt;br&gt;Добро пожаловать к нам ������" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="850" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-26" value="IHOM – это инвестиционная компания. Сотрудники нашей компании занимаются анализом фондового, валютного и криптовалютного рынка, разрабатывают алгоритмы для торговых советников, консультируют клиентов в области инвестирования. &lt;br&gt;&lt;b&gt;Что мы предлагаем: &lt;br&gt;&lt;/b&gt;&amp;nbsp;������ Торговые советники (роботы). Наши роботы работают с акциями, валютой, опционами и фьючерсами. &lt;br&gt;������ Фонд IHOM. &lt;br&gt;������ Доступ в закрытый канал. Каждый инструмент проверен нашими инвесторами. Чтобы узнать подробнее о каждом пункте, перейдите в раздел «Услуги»." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330.99" y="694" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-25" value="Узнать подробнее о нас ������" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="398.49" y="634" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-16" target="Lfni2xhBQjVb0y04ZWI3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="789.9999999999995" as="targetPoint" />
+            <mxPoint x="250" y="664.9411764705883" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="486" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-28" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="1235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-28" value="&lt;b&gt;Вы перешли в раздел наших услуг&lt;/b&gt;&lt;br&gt;Мы любим нашу работу и вкладываем душу в разработку представленных ниже продуктов. Каждый их них мы используем и для себя, поэтому гарантируем высокий уровень надежности! Узнайте подробнее про услугу, кликнув на нее, и если захотите, то напишите нам ваши впечатления или сделайте заказ. Мы предоставим вам контакты✨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="279.74" y="1044" width="412.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Lfni2xhBQjVb0y04ZWI3-26" target="Lfni2xhBQjVb0y04ZWI3-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.99" y="914" as="sourcePoint" />
+            <mxPoint x="690.99" y="864" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lfni2xhBQjVb0y04ZWI3-35" value="Покажи мне услуги ������" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420.27" y="964" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
